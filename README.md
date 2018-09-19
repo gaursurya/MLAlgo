@@ -5,3 +5,4 @@ Linear Regression Folder Following Machine Learning Algo are :
   1) Linear and Multinomial Regression.
   2) Linear with SGD
   3) Logistic Regression
+  4) Ridge Regression
