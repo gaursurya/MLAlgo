@@ -1,1 +1,2 @@
 
+For File Hashing vs One-Hot Encoding it is seems like hashing and On-hot Encoding are very much same and hashing works much better because of low dimentionality but it is not true when you remove all the categorical variable 'Platform' and train model its gives you High-Accuracy Rate without platform variables.
